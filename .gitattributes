@@ -1,0 +1,11 @@
+# Text file normalization
+*.woff2 binary
+*.min.js linguist-generated
+
+*.ico binary
+
+src/**/*.rs linguist-detectable
+node_modules/* linguist-vendored
+public/* linguist-vendored
+*.htm linguist-vendored
+*.rs linguist-detectable
